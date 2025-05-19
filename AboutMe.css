@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#aboutimg{
+   width: 100%;
+   height: 42rem;
+   object-fit: cover;
+   display: block;   
+   overflow: hidden;
+}
+
+.img{
+   width: 100%;
+   height: 42rem;
+   object-fit: cover;
+   display: block;   
+   overflow: hidden;
+}
+
+.con{
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 3rem;
+}
+
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+}
+
+h2{
+color: rgb(255, 255, 255);
+    margin-bottom: 1.5rem;
+    font-size: 3rem;
+}
+
+body {
+    background-image: url('images/skill1.jpg');
+}

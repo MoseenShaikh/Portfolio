@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url('images/skill1.jpg');
+}
+
+.el {
+margin: 1rem;
+}
+
+.element {
+margin: 1rem;
+}
+
+.body {
+  height: 40rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+
+.con {
+  height: 20rem;
+  width: 60rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 3rem;
+  padding: 2rem;
+  color: white;
+  flex-direction: column;
+}
+
+#photo {
+  border-radius: 2rem;
+}
