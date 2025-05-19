@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 50px;
+}
+
+.proconatiner {
+    height: 400px;
+    /* background-color: blueviolet; */
+    display: flex;
+    justify-content: space-evenly;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.subcon {
+    height: 350px;
+    margin: 20px;
+
+}
+
+.amazonimg {
+    height: 350px;
+    border-radius: 2rem;
+}
+
+#des {
+    padding-right: 50px;
+}
+
+.para {
+    margin-top: 40px;
+}
